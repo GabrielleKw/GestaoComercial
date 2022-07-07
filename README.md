@@ -59,3 +59,12 @@ A tela abaixo é nossa tela de Venda relacionada com a TabVenda.
 ![image](https://user-images.githubusercontent.com/76081229/177783096-7fef3f0c-3d5d-4434-86a0-8454f5952f35.png)
 
 Explicação Botão 'Pesquisar Cliente' 
+
+Permite que o usuário pesquise todos os cliente na Tela Pesquisar Cliente/Terceiro, pois pra TabVenda preciso do ID do cliente, assim o usuário pode pesquisar pelo nome sem necessidade de inserir manualmente. Carrego o nome do cliente na tela de Venda apenas para ficar visualmente facil entender para quem é feito a venda. No banco utilizo apenas o ID. 
+
+![image](https://user-images.githubusercontent.com/76081229/177783803-9b22d0f6-9669-4b6b-90a3-f29facfdfb93.png)
+
+Seguimos o mesmo esquema de dois clique na tela pesquisa, ira carrega os dados na tela Cadastro Venda
+
+![image](https://user-images.githubusercontent.com/76081229/177784023-ce80ab40-00db-470b-a5ab-1df783bd8f6b.png)
+
