@@ -68,3 +68,17 @@ Seguimos o mesmo esquema de dois clique na tela pesquisa, ira carrega os dados n
 
 ![image](https://user-images.githubusercontent.com/76081229/177784023-ce80ab40-00db-470b-a5ab-1df783bd8f6b.png)
 
+Explicação botão 'Salva' e 'Adicionar Itens'
+
+![image](https://user-images.githubusercontent.com/76081229/177784178-5c480fff-cef7-44a8-8fff-e5837a2f3f1d.png)
+
+Na opção/botão 'Salva' você salva a venda e adicionar os itens vendidos em outra hora... Para isso basta abir a tela de Pesquisar Vendas (Você faz isso clicando no botão Pesquisar ) e dar dois clique na linha com a venda deseja. Será direcionado a tela de cadastro e clique em 'Adicionar Itens'.
+
+ ![image](https://user-images.githubusercontent.com/76081229/177784650-0fcf53f7-fe10-4f51-be9b-3eb653790c5c.png)
+ ![image](https://user-images.githubusercontent.com/76081229/177784780-d6db0dfb-4509-45ba-8662-16219498c3c8.png)
+
+Na opção 'Adicionar Itens' é para quem já cadastro a venda e já vai adicionar os itens, assim que clicar no botão ' adicionar itens ' caso a venda não exista no banco de dados, será criada. Caso exista igual o caso acima será apenas atualizada. 
+
+Tela de cadastro do itens/produtos 
+![image](https://user-images.githubusercontent.com/76081229/177785205-75a44f14-31d7-475b-9e94-b987a5d2da36.png)
+
