@@ -34,9 +34,11 @@ Após clicar em 'Salvar'
 ![image](https://user-images.githubusercontent.com/76081229/177781657-ded81469-4470-4d6a-a3ed-10cd3c764f39.png)
 
 Opção/botão 'Pesquisar'
+
 ![image](https://user-images.githubusercontent.com/76081229/177781780-57f0187b-4f87-458c-864c-f712ad2b98a0.png)
 
 Opção/botão 'Atualizar'
+
 ![image](https://user-images.githubusercontent.com/76081229/177781896-3b8b9f85-c044-42e0-936c-9068ac6c0269.png)
 
 Para altera ou excluir um cliente, basta acessar a tela de pesquisa e das dois clique na linha e que deseja alterar ou excluir. Pois ao clicar os dados serão carrgados na tela Cadastras Cliente/Terceiro e você pode realizar as ações 
@@ -47,5 +49,13 @@ Veja que após exclução o nosso relatório de cadastrados fica diferente
 
 ![image](https://user-images.githubusercontent.com/76081229/177782394-c0c390f2-ea01-404a-a6be-ed555cd1f7d0.png)
 
+As demais telas 'Cadastro Produto', 'Cadastro Funcionário' seguem o mesmo padrão.
 
+<h1> Tela Cadastro de uma venda </h1> 
 
+Em meu banco de dados possuo duas tabelas para realização de uma venda. TabVenda que contém as informações da venda, e TabVenda_Itens que contém nesse caso os produtos que foram vendios nessa venda. 
+A tela abaixo é nossa tela de Venda relacionada com a TabVenda. 
+
+![image](https://user-images.githubusercontent.com/76081229/177783096-7fef3f0c-3d5d-4434-86a0-8454f5952f35.png)
+
+Explicação Botão 'Pesquisar Cliente' 
