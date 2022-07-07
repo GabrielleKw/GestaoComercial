@@ -80,5 +80,15 @@ Na opção/botão 'Salva' você salva a venda e adicionar os itens vendidos em o
 Na opção 'Adicionar Itens' é para quem já cadastro a venda e já vai adicionar os itens, assim que clicar no botão ' adicionar itens ' caso a venda não exista no banco de dados, será criada. Caso exista igual o caso acima será apenas atualizada. 
 
 Tela de cadastro do itens/produtos 
+
 ![image](https://user-images.githubusercontent.com/76081229/177785205-75a44f14-31d7-475b-9e94-b987a5d2da36.png)
 
+<h1> Obs </h1>
+Todas as telas possuem a tecla Tab configurada na ordem correta para melhorar a exeperiencia do usuário. 
+
+<h1> Me conheça </h1>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielleLink" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kw_gabrielle/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gabekw.insta" height="30" width="40" /></a>
+</p>
