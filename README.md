@@ -90,5 +90,5 @@ Todas as telas possuem a tecla Tab configurada na ordem correta para melhorar a 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.M2yKY291zt8FiB681yqoqwAAAA?pid=ImgDet&rs=1" alt="gabrielleLink" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kw_gabrielle/" target="blank"><img align="center" src="[https://th.bing.com/th/id/R.ad1fdf133f291aa1594ecf23efe0f924?rik=0xg5BgirmSq1%2fQ&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.99d34c78d03140bd605afd14dca01ed6?rik=nmkpUJtDFIXb1A&pid=ImgRaw&r=0)" alt="gabekw.insta" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kw_gabrielle/" target="blank"><img align="center" src="[https://th.bing.com/th/id/R.ad1fdf133f291aa1594ecf23efe0f924?rik=0xg5BgirmSq1%2fQ&pid=ImgRaw&r=0](https://th.bing.com/th/id/R.99d34c78d03140bd605afd14dca01ed6?rik=nmkpUJtDFIXb1A&pid=ImgRaw&r=0" alt="gabekw.insta" height="30" width="40" /></a>
 </p>
