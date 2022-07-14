@@ -86,8 +86,9 @@ Tela de cadastro do itens/produtos
 <h1> Obs </h1>
 Todas as telas possuem a tecla Tab configurada na ordem correta para melhorar a exeperiencia do usuário. 
 
-<h1> Me conheça </h1>
-
+<h3 align="left"> Quem sou eu ? <src="https://cdn-icons-png.flaticon.com/512/920/920938.png" alt="gabekw.twitter" height="40" width="40" /></a></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.M2yKY291zt8FiB681yqoqwAAAA?pid=ImgDet&rs=1" alt="gabrielleLink" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /></a> 
+<a href="https://twitter.com/Gabrielle_kw" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="gabekw.twitter" height="40" width="40" /></a>
+</p>
 
